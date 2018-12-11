@@ -9,7 +9,12 @@
 <body>
     <p>hola mundo :D</p>
     <p>esta es otra rama</p>
+<<<<<<< HEAD
     <p>tercer commmit</p>
     <p>otro cambio</p>
+=======
+    <p>agregar parrafo</p>
+    <p>no funciono xD</p>
+>>>>>>> jordy
 </body>
 </html>
