@@ -8,14 +8,11 @@
 </head>
 <body>
     <p>hola mundo :D</p>
-<<<<<<< HEAD
     <p>esta es otra rama</p>
     <p>tercer commmit</p>
     <p>otro cambio</p>
     <p>agregar parrafo</p>
     <p>no funciono xD</p>
-=======
     <p>hola mundo :D</p>
->>>>>>> jordy
 </body>
 </html>
